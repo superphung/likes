@@ -12,3 +12,4 @@
 
 ### August 24, 2016
 - [Web Animations examples](https://mozdevs.github.io/Animation-examples/) 
+- [Animating like you just don’t care with Element.animate ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2016/08/animating-like-you-just-dont-care-with-element-animate/) 
