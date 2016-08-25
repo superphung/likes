@@ -13,3 +13,6 @@
 ### August 24, 2016
 - [Web Animations examples](https://mozdevs.github.io/Animation-examples/) 
 - [Animating like you just don’t care with Element.animate ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2016/08/animating-like-you-just-dont-care-with-element-animate/) 
+
+### August 25, 2016
+- [Building A Server-Side Application With Async Functions and Koa 2 – Smashing Magazine](https://www.smashingmagazine.com/2016/08/getting-started-koa-2-async-functions/?utm_source=nodeweekly&utm_medium=email) 
