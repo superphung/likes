@@ -16,3 +16,4 @@
 
 ### August 25, 2016
 - [Building A Server-Side Application With Async Functions and Koa 2 – Smashing Magazine](https://www.smashingmagazine.com/2016/08/getting-started-koa-2-async-functions/?utm_source=nodeweekly&utm_medium=email) 
+- [Building your first Atom plugin](https://github.com/blog/2231-building-your-first-atom-plugin?utm_source=nodeweekly&utm_medium=email) 
