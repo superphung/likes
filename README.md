@@ -21,3 +21,4 @@
 
 ### August 26, 2016
 - [6.14.0 Released · Babel](https://babeljs.io/blog/2016/08/24/6.14.0?utm_source=javascriptweekly&utm_medium=email) 
+- [You SHOULD Learn Vanilla JavaScript Before JS Frameworks - Snipcart](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks?utm_source=javascriptweekly&utm_medium=email) 
