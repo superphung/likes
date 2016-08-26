@@ -23,3 +23,4 @@
 - [6.14.0 Released · Babel](https://babeljs.io/blog/2016/08/24/6.14.0?utm_source=javascriptweekly&utm_medium=email) 
 - [You SHOULD Learn Vanilla JavaScript Before JS Frameworks - Snipcart](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks?utm_source=javascriptweekly&utm_medium=email) 
 - [Relay 2: Simpler, Faster, More Predictable – ZeeMee Engineering](https://zeemee.engineering/relay-2-simpler-faster-more-predictable-128769e72318#.eu0w7imwy) 
+- [Echo JS - JavaScript News](http://www.echojs.com/) 
