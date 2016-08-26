@@ -18,3 +18,6 @@
 - [Building A Server-Side Application With Async Functions and Koa 2 – Smashing Magazine](https://www.smashingmagazine.com/2016/08/getting-started-koa-2-async-functions/?utm_source=nodeweekly&utm_medium=email) 
 - [Building your first Atom plugin](https://github.com/blog/2231-building-your-first-atom-plugin?utm_source=nodeweekly&utm_medium=email) 
 - [Learning Observable By Building Observable – Medium](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87#.17sw34pmb) 
+
+### August 26, 2016
+- [6.14.0 Released · Babel](https://babeljs.io/blog/2016/08/24/6.14.0?utm_source=javascriptweekly&utm_medium=email) 
