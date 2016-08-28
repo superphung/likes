@@ -25,3 +25,6 @@
 - [Relay 2: Simpler, Faster, More Predictable – ZeeMee Engineering](https://zeemee.engineering/relay-2-simpler-faster-more-predictable-128769e72318#.eu0w7imwy) 
 - [Echo JS - JavaScript News](http://www.echojs.com/) 
 - [André Staltz - How to debug RxJS code](http://staltz.com/how-to-debug-rxjs-code.html) 
+
+### August 28, 2016
+- [The Elegance Of React – JavaScript Inside – Medium](https://medium.com/javascript-inside/the-elegance-of-react-ebc21a2dcd19#.pxqewrc8u) 
