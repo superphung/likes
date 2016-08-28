@@ -29,3 +29,4 @@
 ### August 28, 2016
 - [The Elegance Of React – JavaScript Inside – Medium](https://medium.com/javascript-inside/the-elegance-of-react-ebc21a2dcd19#.pxqewrc8u) 
 - [The rise of functional programming & the decline of Angular 2.0](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs) 
+- [p20-meijer.pdf](http://delivery.acm.org/10.1145/2620000/2611829/p20-meijer.pdf?ip=88.173.250.249&id=2611829&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=831181994&CFTOKEN=55801919&__acm__=1472404124_96e183a928e9510b93b928a989053100) 
