@@ -33,3 +33,4 @@
 
 ### August 29, 2016
 - [Functional Programming in Javascript](http://reactivex.io/learnrx/) 
+- [Untangling Deeply-Nested Promise Chains — Philip Walton](https://philipwalton.com/articles/untangling-deeply-nested-promise-chains/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-25) 
