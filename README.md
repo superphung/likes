@@ -38,3 +38,4 @@
 ### August 30, 2016
 - [Web Animation Weekly 86](http://us1.campaign-archive1.com/?u=0a8f219cf8284562f91a26ee9&id=903c250e4a) 
 - [JavaScript Systems Music](http://teropa.info/blog/2016/07/28/javascript-systems-music.html) 
+- [Overcoming JavaScript Framework Fatigue](http://teropa.info/blog/2015/07/15/overcoming-javascript-framework-fatigue.html) 
