@@ -42,3 +42,6 @@
 
 ### August 31, 2016
 - [Clean Coder Blog](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html) 
+
+### September 1, 2016
+- [The Netflix Tech Blog: Engineering Trade-Offs and The Netflix API Re-Architecture](http://techblog.netflix.com/2016/08/engineering-trade-offs-and-netflix-api.html) 
