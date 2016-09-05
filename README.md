@@ -45,3 +45,6 @@
 
 ### September 1, 2016
 - [The Netflix Tech Blog: Engineering Trade-Offs and The Netflix API Re-Architecture](http://techblog.netflix.com/2016/08/engineering-trade-offs-and-netflix-api.html) 
+
+### September 5, 2016
+- [Javascript in 2015 - YouTube](https://www.youtube.com/watch?v=iukBMY4apvI) 
