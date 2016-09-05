@@ -48,3 +48,4 @@
 
 ### September 5, 2016
 - [Javascript in 2015 - YouTube](https://www.youtube.com/watch?v=iukBMY4apvI) 
+- [An Introduction to Elm · GitBook](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) 
