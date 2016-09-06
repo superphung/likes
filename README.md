@@ -52,3 +52,4 @@
 
 ### September 6, 2016
 - [Master the JavaScript Interview: What is Function Composition? – JavaScript Scene – Medium](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.hw9wide0v) 
+- [Software Engineer Cheat Sheet – The Cooper Review – Medium](https://medium.com/conquering-corporate-america/software-engineer-cheat-sheet-c95477b060c4#.5fysj7ray) 
