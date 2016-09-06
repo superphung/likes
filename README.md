@@ -49,3 +49,6 @@
 ### September 5, 2016
 - [Javascript in 2015 - YouTube](https://www.youtube.com/watch?v=iukBMY4apvI) 
 - [An Introduction to Elm · GitBook](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) 
+
+### September 6, 2016
+- [Master the JavaScript Interview: What is Function Composition? – JavaScript Scene – Medium](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.hw9wide0v) 
