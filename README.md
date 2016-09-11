@@ -57,3 +57,6 @@
 ### September 9, 2016
 - [React fast! A (kind-of) Definitive List of Frontend Blogs!](http://blog.honeypot.io/definitive-list-of-frontend-blogs-2016/) 
 - [javascript - How to filter() out NaN, null, 0, false in an array (JS) - Stack Overflow](http://stackoverflow.com/questions/31925323/how-to-filter-out-nan-null-0-false-in-an-array-js) 
+
+### September 11, 2016
+- [Making OSS Libraries Extensible - YouTube](https://www.youtube.com/watch?v=FlcB8T0miO8) 
