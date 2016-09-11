@@ -60,3 +60,4 @@
 
 ### September 11, 2016
 - [Making OSS Libraries Extensible - YouTube](https://www.youtube.com/watch?v=FlcB8T0miO8) 
+- [Healthy Open Source – The JavaScript Collection – Medium](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951#.5o2s1dn4j) 
