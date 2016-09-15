@@ -69,3 +69,4 @@
 ### September 15, 2016
 - [How React Native Dies](http://codecookbook.co/text/how-react-native-dies/) 
 - [Angular 2 released!!](http://juristr.com/blog/2016/09/ng2-released/) 
+- [Angular 2 is out - Get started here by thoughtram](http://blog.thoughtram.io/angular/2016/09/15/angular-2-final-is-out.html) 
