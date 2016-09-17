@@ -74,3 +74,4 @@
 
 ### September 17, 2016
 - [Sarah Drasner - Animating in React - YouTube](https://www.youtube.com/watch?v=QlmaI7x7SYo&utm_source=reactnl&utm_medium=email) 
+- [Ben Lesh - Async Redux Actions With RxJS - YouTube](https://www.youtube.com/watch?v=sF5-V-Szo0c) 
