@@ -71,3 +71,6 @@
 - [Angular 2 released!!](http://juristr.com/blog/2016/09/ng2-released/) 
 - [Angular 2 is out - Get started here by thoughtram](http://blog.thoughtram.io/angular/2016/09/15/angular-2-final-is-out.html) 
 - [What every JavaScript developer should know about Unicode](https://rainsoft.io/what-every-javascript-developer-should-know-about-unicode/) 
+
+### September 17, 2016
+- [Sarah Drasner - Animating in React - YouTube](https://www.youtube.com/watch?v=QlmaI7x7SYo&utm_source=reactnl&utm_medium=email) 
