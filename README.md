@@ -76,3 +76,6 @@
 - [Sarah Drasner - Animating in React - YouTube](https://www.youtube.com/watch?v=QlmaI7x7SYo&utm_source=reactnl&utm_medium=email) 
 - [Ben Lesh - Async Redux Actions With RxJS - YouTube](https://www.youtube.com/watch?v=sF5-V-Szo0c) 
 - [Unsplash It](https://unsplash.it/) 
+
+### September 19, 2016
+- [Function as Child Components – Merrick Christensen – Medium](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.5xocnqdjn) 
