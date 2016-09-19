@@ -79,3 +79,4 @@
 
 ### September 19, 2016
 - [Function as Child Components – Merrick Christensen – Medium](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.5xocnqdjn) 
+- [David Khourshid: Reactive Animations with CSS Variables - JSConf Iceland 2016 - YouTube](https://www.youtube.com/watch?v=lTCukb6Zn3g&list=WL&index=40) 
