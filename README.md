@@ -84,3 +84,6 @@
 
 ### September 22, 2016
 - [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/) 
+
+### September 23, 2016
+- [Redux without the sanity checks in a single file. Don't use this, use normal Redux. :-)](https://gist.github.com/gaearon/ffd88b0e4f00b22c3159) 
