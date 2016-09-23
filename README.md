@@ -87,3 +87,4 @@
 
 ### September 23, 2016
 - [Redux without the sanity checks in a single file. Don't use this, use normal Redux. :-)](https://gist.github.com/gaearon/ffd88b0e4f00b22c3159) 
+- [Use Easy-Fix to Run Integration Tests Like Unit Tests – WalmartLabs – Medium](https://medium.com/walmartlabs/use-easy-fix-to-run-integration-tests-like-unit-tests-834288ec446d#.6z9lgeg1c) 
