@@ -91,3 +91,6 @@
 
 ### September 24, 2016
 - [Making sense of Redux](https://medium.freecodecamp.com/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca#.e6b8c4wjo) 
+
+### September 25, 2016
+- [Brian Lonsdorf - Oh Composable World! - YouTube](https://www.youtube.com/watch?v=SfWR3dKnFIo) 
