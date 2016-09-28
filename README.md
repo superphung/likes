@@ -97,3 +97,6 @@
 
 ### September 27, 2016
 - [SIGGRAPH 2016 Deluxe Report Pt II: the 3D Web - Rachel Nabors, award-winning cartoonist turned digital storyteller.](http://rachelnabors.com/2016/09/27/siggraph-webgl/) 
+
+### September 28, 2016
+- [UI Movement - The best UI design inspiration, every day](https://uimovement.com/) 
