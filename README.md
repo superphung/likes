@@ -100,3 +100,4 @@
 
 ### September 28, 2016
 - [UI Movement - The best UI design inspiration, every day](https://uimovement.com/) 
+- [Let’s Learn JavaScript Closures](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.dwiasn25j) 
