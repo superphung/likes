@@ -101,3 +101,6 @@
 ### September 28, 2016
 - [UI Movement - The best UI design inspiration, every day](https://uimovement.com/) 
 - [Let’s Learn JavaScript Closures](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.dwiasn25j) 
+
+### September 29, 2016
+- [The Netflix Tech Blog: Vizceral Open Source](http://techblog.netflix.com/2016/08/vizceral-open-source.html) 
