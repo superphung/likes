@@ -104,3 +104,4 @@
 
 ### September 29, 2016
 - [The Netflix Tech Blog: Vizceral Open Source](http://techblog.netflix.com/2016/08/vizceral-open-source.html) 
+- [ReactJS Mastering: Best Practices for Beginners. React Redux Free Book, Blog and Tutorial](https://reactjs.co/) 
