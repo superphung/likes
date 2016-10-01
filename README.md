@@ -106,3 +106,6 @@
 - [The Netflix Tech Blog: Vizceral Open Source](http://techblog.netflix.com/2016/08/vizceral-open-source.html) 
 - [ReactJS Mastering: Best Practices for Beginners. React Redux Free Book, Blog and Tutorial](https://reactjs.co/) 
 - [React.JS Top 10 Articles in September](https://medium.mybridge.co/react-js-top-10-articles-in-september-96c22bb9c74#.1tnmgd8jf) 
+
+### October 1, 2016
+- [A journey through multiple dimensions and transformations in SPACE – Artists and Machine Intelligence – Medium](https://medium.com/artists-and-machine-intelligence/a-journey-through-multiple-dimensions-and-transformations-in-space-the-final-frontier-d8435d81ca51#.ml06pkr8n) 
