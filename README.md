@@ -109,3 +109,6 @@
 
 ### October 1, 2016
 - [A journey through multiple dimensions and transformations in SPACE – Artists and Machine Intelligence – Medium](https://medium.com/artists-and-machine-intelligence/a-journey-through-multiple-dimensions-and-transformations-in-space-the-final-frontier-d8435d81ca51#.ml06pkr8n) 
+
+### October 4, 2016
+- [How it feels to learn Javascript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.on8ah2g0z) 
