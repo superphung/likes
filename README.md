@@ -112,3 +112,6 @@
 
 ### October 4, 2016
 - [How it feels to learn Javascript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.on8ah2g0z) 
+
+### October 7, 2016
+- ["I See What You Mean" by Peter Alvaro - YouTube](https://www.youtube.com/watch?v=R2Aa4PivG0g) 
