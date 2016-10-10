@@ -115,3 +115,6 @@
 
 ### October 7, 2016
 - ["I See What You Mean" by Peter Alvaro - YouTube](https://www.youtube.com/watch?v=R2Aa4PivG0g) 
+
+### October 10, 2016
+- [A Javascript journey with only six characters](http://jazcash.com/a-javascript-journey-with-only-six-characters/) 
