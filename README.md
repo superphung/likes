@@ -118,3 +118,6 @@
 
 ### October 10, 2016
 - [A Javascript journey with only six characters](http://jazcash.com/a-javascript-journey-with-only-six-characters/) 
+
+### October 14, 2016
+- [Implementation Notes | React](https://facebook.github.io/react/contributing/implementation-notes.html?utm_source=reactnl&utm_medium=email) 
