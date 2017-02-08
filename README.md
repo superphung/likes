@@ -128,3 +128,6 @@
 
 ### February 5, 2017
 - [Docker source analysis (1): Docker Architecture - Wood Elf technology blog Blog Channel - PROG3.COM](http://prog3.com/sbdm/blog/shlazww/article/details/39178469) 
+
+### February 8, 2017
+- [Top mentioned books on stackoverflow.com](http://www.dev-books.com/) 
