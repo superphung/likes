@@ -134,3 +134,4 @@
 
 ### February 10, 2017
 - [JavaScript Start-up Performance – Medium](https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201#.m5lusaq2y) 
+- [The PRPL Pattern  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) 
