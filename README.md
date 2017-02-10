@@ -131,3 +131,6 @@
 
 ### February 8, 2017
 - [Top mentioned books on stackoverflow.com](http://www.dev-books.com/)
+
+### February 10, 2017
+- [JavaScript Start-up Performance – Medium](https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201#.m5lusaq2y) 
