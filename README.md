@@ -135,3 +135,6 @@
 ### February 10, 2017
 - [JavaScript Start-up Performance – Medium](https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201#.m5lusaq2y) 
 - [The PRPL Pattern  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) 
+
+### February 15, 2017
+- [Lazy loading Angular 1.X states with WebPack – octoblog](https://blog.octobot.io/lazy-loading-angular-1-x-states-with-webpack/) 
