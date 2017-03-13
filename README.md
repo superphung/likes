@@ -138,3 +138,6 @@
 
 ### February 15, 2017
 - [Lazy loading Angular 1.X states with WebPack – octoblog](https://blog.octobot.io/lazy-loading-angular-1-x-states-with-webpack/) 
+
+### March 13, 2017
+- [Introducing React Loadable – Medium](https://medium.com/@thejameskyle/react-loadable-2674c59de178#.926t8cbbx) 
