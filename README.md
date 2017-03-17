@@ -141,3 +141,6 @@
 
 ### March 13, 2017
 - [Introducing React Loadable – Medium](https://medium.com/@thejameskyle/react-loadable-2674c59de178#.926t8cbbx) 
+
+### March 17, 2017
+- [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9#.owidys8nt) 
