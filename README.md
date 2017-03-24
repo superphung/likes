@@ -148,3 +148,6 @@
 ### March 22, 2017
 - [Parallax.js](https://codepen.io/CSS_Masters/pen/dCEoK) 
 - [I've been a Web Developer for 17 Years, and this is what I learned - Daniel Khan | @RisingStack](https://community.risingstack.com/ive-been-a-web-developer-for-17-years-and-this-is-what-i-learned-daniel-khan/) 
+
+### March 24, 2017
+- [React is Slow, React is Fast: Optimizing React Apps in Practice](https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html) 
