@@ -154,3 +154,4 @@
 
 ### March 26, 2017
 - [How SVG Line Animation Works | CSS-Tricks](https://css-tricks.com/svg-line-animation-works/) 
+- [Raster (Bitmap) vs Vector](http://vector-conversions.com/vectorizing/raster_vs_vector.html) 
