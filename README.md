@@ -158,3 +158,6 @@
 
 ### March 31, 2017
 - [Data Sketches](http://www.datasketch.es/) 
+
+### April 4, 2017
+- [AngularJS Dynamic Templates - Yes We Can! - One Hungry Mind](http://onehungrymind.com/angularjs-dynamic-templates/) 
