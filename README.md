@@ -161,3 +161,6 @@
 
 ### April 4, 2017
 - [AngularJS Dynamic Templates - Yes We Can! - One Hungry Mind](http://onehungrymind.com/angularjs-dynamic-templates/) 
+
+### April 8, 2017
+- [Webpack and Rollup: the same but different – webpack – Medium](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c) 
