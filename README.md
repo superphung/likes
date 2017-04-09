@@ -164,3 +164,6 @@
 
 ### April 8, 2017
 - [Webpack and Rollup: the same but different – webpack – Medium](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c) 
+
+### April 9, 2017
+- [Principles of Programming Languages - 2017/Spring - Class Material](https://www.cs.bgu.ac.il/~ppl172/Class_Material) 
