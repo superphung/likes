@@ -167,3 +167,6 @@
 
 ### April 9, 2017
 - [Principles of Programming Languages - 2017/Spring - Class Material](https://www.cs.bgu.ac.il/~ppl172/Class_Material) 
+
+### April 10, 2017
+- [An 80/20 Guide to Mongoose Discriminators | www.thecodebarbarian.com](http://thecodebarbarian.com/2015/07/24/guide-to-mongoose-discriminators) 
