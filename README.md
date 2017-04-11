@@ -170,3 +170,6 @@
 
 ### April 10, 2017
 - [An 80/20 Guide to Mongoose Discriminators | www.thecodebarbarian.com](http://thecodebarbarian.com/2015/07/24/guide-to-mongoose-discriminators) 
+
+### April 11, 2017
+- [Indie Hackers: Learn from Profitable Businesses and Projects](https://www.indiehackers.com/businesses) 
