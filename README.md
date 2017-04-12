@@ -173,3 +173,6 @@
 
 ### April 11, 2017
 - [Indie Hackers: Learn from Profitable Businesses and Projects](https://www.indiehackers.com/businesses) 
+
+### April 12, 2017
+- [Fast Drawing for Everyone](https://www.blog.google/topics/machine-learning/fast-drawing-everyone/) 
