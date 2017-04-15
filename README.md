@@ -177,3 +177,6 @@
 ### April 12, 2017
 - [Fast Drawing for Everyone](https://www.blog.google/topics/machine-learning/fast-drawing-everyone/) 
 - [TypeScript at Slack](https://slack.engineering/typescript-at-slack-a81307fa288d) 
+
+### April 15, 2017
+- [Competitive Programmer's Handbook](https://cses.fi/book.html) 
