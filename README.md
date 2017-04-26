@@ -180,3 +180,6 @@
 
 ### April 15, 2017
 - [Competitive Programmer's Handbook](https://cses.fi/book.html) 
+
+### April 26, 2017
+- [Painting with Code : Airbnb Design](http://airbnb.design/painting-with-code/) 
