@@ -183,3 +183,6 @@
 
 ### April 26, 2017
 - [Painting with Code : Airbnb Design](http://airbnb.design/painting-with-code/) 
+
+### May 16, 2017
+- [Dispatch Redux actions as events, not commands! – Domagoj Kriskovic – Medium](https://medium.com/@domagojk/dispatch-redux-actions-as-events-not-commands-4de8a92b1ea5) 
