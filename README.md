@@ -191,3 +191,4 @@
 ### May 25, 2017
 - [How to write a JavaScript package for both Node and the browser | Read the Tea Leaves](https://nolanlawson.com/2017/01/09/how-to-write-a-javascript-package-for-both-node-and-the-browser/) 
 - [Enough with the microservices | Adam Drake](https://aadrake.com/posts/2017-05-20-enough-with-the-microservices.html) 
+- [Little Things I Like to Do with Git – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) 
