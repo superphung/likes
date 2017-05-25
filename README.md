@@ -187,3 +187,6 @@
 ### May 16, 2017
 - [Dispatch Redux actions as events, not commands! – Domagoj Kriskovic – Medium](https://medium.com/@domagojk/dispatch-redux-actions-as-events-not-commands-4de8a92b1ea5) 
 - [A16Z AI Playbook](http://aiplaybook.a16z.com/) 
+
+### May 25, 2017
+- [How to write a JavaScript package for both Node and the browser | Read the Tea Leaves](https://nolanlawson.com/2017/01/09/how-to-write-a-javascript-package-for-both-node-and-the-browser/) 
