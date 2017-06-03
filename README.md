@@ -195,3 +195,6 @@
 
 ### May 28, 2017
 - [Addy Osmani: The Browser Hackers Guide To Instantly Loading Everything | JSConf EU 2017 - YouTube](https://www.youtube.com/watch?v=7vUs5yOuv-o) 
+
+### June 3, 2017
+- [Upgrading Ele.me to Progressive Web App – ELEME Frontend Engineering – Medium](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509) 
