@@ -198,3 +198,6 @@
 
 ### June 3, 2017
 - [Upgrading Ele.me to Progressive Web App – ELEME Frontend Engineering – Medium](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509) 
+
+### June 20, 2017
+- [🍾🚀 webpack 3: Official Release!! 🚀🍾 – webpack – Medium](https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b) 
