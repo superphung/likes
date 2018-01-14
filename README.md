@@ -201,3 +201,6 @@
 
 ### June 20, 2017
 - [🍾🚀 webpack 3: Official Release!! 🚀🍾 – webpack – Medium](https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b) 
+
+### January 14, 2018 
+- [microservices - Service discovery on aws ECS with Application Load Balancer - Stack Overflow](https://stackoverflow.com/questions/46807757/service-discovery-on-aws-ecs-with-application-load-balancer) 
