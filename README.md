@@ -204,3 +204,6 @@
 
 ### January 14, 2018 
 - [microservices - Service discovery on aws ECS with Application Load Balancer - Stack Overflow](https://stackoverflow.com/questions/46807757/service-discovery-on-aws-ecs-with-application-load-balancer) 
+
+### January 17, 2018 
+- [amazon ec2 - How to use multiple AWS Accounts from the command line? - Stack Overflow](https://stackoverflow.com/questions/593334/how-to-use-multiple-aws-accounts-from-the-command-line) 
