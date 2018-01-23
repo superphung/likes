@@ -207,3 +207,6 @@
 
 ### January 17, 2018 
 - [amazon ec2 - How to use multiple AWS Accounts from the command line? - Stack Overflow](https://stackoverflow.com/questions/593334/how-to-use-multiple-aws-accounts-from-the-command-line) 
+
+### January 23, 2018 
+- [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1) 
