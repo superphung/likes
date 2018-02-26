@@ -210,3 +210,6 @@
 
 ### January 23, 2018 
 - [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1) 
+
+### February 26, 2018 
+- [How to get AngularJS BLOB to Download PDF? - Stack Overflow](https://stackoverflow.com/questions/35205589/how-to-get-angularjs-blob-to-download-pdf) 
