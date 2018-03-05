@@ -214,3 +214,6 @@
 ### February 26, 2018 
 - [How to get AngularJS BLOB to Download PDF? - Stack Overflow](https://stackoverflow.com/questions/35205589/how-to-get-angularjs-blob-to-download-pdf) 
 - [React: basic componentization and conditional CSS styling](https://codeburst.io/react-basic-componentization-and-conditional-css-styling-4f678981adaf) 
+
+### March 5, 2018 
+- [Selenium ChromeDriver Hangs on Startup | The Full Stack Blog](https://maxrohde.com/2017/11/07/selenium-chromedriver-hangs-on-startup/) 
