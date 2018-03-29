@@ -217,3 +217,6 @@
 
 ### March 5, 2018 
 - [Selenium ChromeDriver Hangs on Startup | The Full Stack Blog](https://maxrohde.com/2017/11/07/selenium-chromedriver-hangs-on-startup/) 
+
+### March 29, 2018 
+- [How to NOT React: Common Anti-Patterns and Gotchas in React](https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd) 
