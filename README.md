@@ -226,3 +226,6 @@
 
 ### April 10, 2018 
 - [Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e) 
+
+### May 5, 2018 
+- [Parallel programming in JavaScript – ITNEXT](https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db) 
