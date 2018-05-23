@@ -229,3 +229,6 @@
 
 ### May 5, 2018 
 - [Parallel programming in JavaScript – ITNEXT](https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db) 
+
+### May 23, 2018 
+- [How I used a simple Google query to mine passwords from dozens of public Trello boards](https://medium.freecodecamp.org/discovering-the-hidden-mine-of-credentials-and-sensitive-information-8e5ccfef2724) 
