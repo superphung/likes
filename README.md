@@ -1,4 +1,7 @@
 # likes
+
+### June 1, 2018 
+- [How can I rename a field for all documents in MongoDB? - Stack Overflow](https://stackoverflow.com/questions/9254351/how-can-i-rename-a-field-for-all-documents-in-mongodb) 
 ### August 18, 2016
 - ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee - YouTube](https://www.youtube.com/watch?v=YJZCUhxNCv8) 
 
