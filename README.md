@@ -1,6 +1,9 @@
 # likes
 
 
+
+### June 29, 2018 
+- [Generate and Install a Let's Encrypt SSL Certificate for a Bitnami Application](https://docs.bitnami.com/aws/how-to/generate-install-lets-encrypt-ssl/) 
 ### June 27, 2018 
 - [Fauna | Transactional NoSQL database from the team that scaled Twitter.](https://fauna.com/) 
 - [Fauna | Transactional NoSQL database from the team that scaled Twitter.](https://fauna.com/) 
