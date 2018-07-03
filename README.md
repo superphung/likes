@@ -2,6 +2,9 @@
 
 
 
+
+### July 3, 2018 
+- [AWS Lambdas with a static outgoing IP – Technology Blog](http://techblog.financialengines.com/2016/09/26/aws-lambdas-with-a-static-outgoing-ip/) 
 ### June 29, 2018 
 - [Generate and Install a Let's Encrypt SSL Certificate for a Bitnami Application](https://docs.bitnami.com/aws/how-to/generate-install-lets-encrypt-ssl/) 
 ### June 27, 2018 
