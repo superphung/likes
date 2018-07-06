@@ -3,6 +3,9 @@
 
 
 
+
+### July 6, 2018 
+- [A crash course on Serverless APIs with Express and MongoDB - DEV Community 👩‍💻👨‍💻](https://dev.to/adnanrahic/a-crash-course-on-serverless-apis-with-express-and-mongodb-193k) 
 ### July 3, 2018 
 - [AWS Lambdas with a static outgoing IP – Technology Blog](http://techblog.financialengines.com/2016/09/26/aws-lambdas-with-a-static-outgoing-ip/) 
 ### June 29, 2018 
