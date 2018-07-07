@@ -4,6 +4,9 @@
 
 
 
+
+### July 8, 2018 
+- [(11) AT&T Archives: The UNIX Operating System - YouTube](https://www.youtube.com/watch?v=tc4ROCJYbm0) 
 ### July 6, 2018 
 - [A crash course on Serverless APIs with Express and MongoDB - DEV Community 👩‍💻👨‍💻](https://dev.to/adnanrahic/a-crash-course-on-serverless-apis-with-express-and-mongodb-193k) 
 ### July 3, 2018 
