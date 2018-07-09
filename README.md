@@ -8,6 +8,7 @@
 
 ### July 9, 2018 
 - [linux - How to change(Hide) the Nginx Server Signature? - Stack Overflow](https://stackoverflow.com/questions/24594971/how-to-changehide-the-nginx-server-signature) 
+- [Nginx dynamic modules | Logan Marchione](https://www.loganmarchione.com/2016/10/nginx-dynamic-modules/) 
 ### July 8, 2018 
 - [(11) AT&T Archives: The UNIX Operating System - YouTube](https://www.youtube.com/watch?v=tc4ROCJYbm0) 
 ### July 6, 2018 
