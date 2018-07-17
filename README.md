@@ -6,6 +6,9 @@
 
 
 
+
+### July 17, 2018 
+- [command line - What does outputting to /dev/null accomplish in bash scripts? - Ask Ubuntu](https://askubuntu.com/questions/12098/what-does-outputting-to-dev-null-accomplish-in-bash-scripts) 
 ### July 9, 2018 
 - [linux - How to change(Hide) the Nginx Server Signature? - Stack Overflow](https://stackoverflow.com/questions/24594971/how-to-changehide-the-nginx-server-signature) 
 - [Nginx dynamic modules | Logan Marchione](https://www.loganmarchione.com/2016/10/nginx-dynamic-modules/) 
