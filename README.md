@@ -7,6 +7,9 @@
 
 
 
+
+### July 19, 2018 
+- [Interactive Choropleth Map - Leaflet - a JavaScript library for interactive maps](https://leafletjs.com/examples/choropleth/) 
 ### July 17, 2018 
 - [command line - What does outputting to /dev/null accomplish in bash scripts? - Ask Ubuntu](https://askubuntu.com/questions/12098/what-does-outputting-to-dev-null-accomplish-in-bash-scripts) 
 ### July 9, 2018 
