@@ -8,6 +8,9 @@
 
 
 
+
+### July 20, 2018 
+- [Web Architecture 101 – VideoBlocks Product & Engineering](https://engineering.videoblocks.com/web-architecture-101-a3224e126947?ref=abhimanyu) 
 ### July 19, 2018 
 - [Interactive Choropleth Map - Leaflet - a JavaScript library for interactive maps](https://leafletjs.com/examples/choropleth/) 
 ### July 17, 2018 
