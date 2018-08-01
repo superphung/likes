@@ -12,6 +12,7 @@
 
 ### August 1, 2018 
 - [Adding Particle Effects to DOM Elements with Canvas | CSS-Tricks](https://css-tricks.com/adding-particle-effects-to-dom-elements-with-canvas/) 
+- [A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe) 
 ### July 20, 2018 
 - [Web Architecture 101 – VideoBlocks Product & Engineering](https://engineering.videoblocks.com/web-architecture-101-a3224e126947?ref=abhimanyu) 
 ### July 19, 2018 
