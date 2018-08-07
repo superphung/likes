@@ -10,6 +10,9 @@
 
 
 
+
+### August 7, 2018 
+- [JavaScript: Template Literals & Tag Functions for Beginners](https://codeburst.io/javascript-template-literals-tag-functions-for-beginners-758a041160e1) 
 ### August 1, 2018 
 - [Adding Particle Effects to DOM Elements with Canvas | CSS-Tricks](https://css-tricks.com/adding-particle-effects-to-dom-elements-with-canvas/) 
 - [A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe) 
