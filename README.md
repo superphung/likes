@@ -11,6 +11,9 @@
 
 
 
+
+### August 16, 2018 
+- [node.js - Is this API signed request methodology secure? - Stack Overflow](https://stackoverflow.com/questions/23820128/is-this-api-signed-request-methodology-secure) 
 ### August 7, 2018 
 - [JavaScript: Template Literals & Tag Functions for Beginners](https://codeburst.io/javascript-template-literals-tag-functions-for-beginners-758a041160e1) 
 ### August 1, 2018 
