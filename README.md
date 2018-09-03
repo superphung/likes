@@ -16,6 +16,7 @@
 
 ### September 3, 2018 
 - [HTTP 206 Partial Content In Node.js - CodeProject](https://www.codeproject.com/Articles/813480/HTTP-Partial-Content-In-Node-js) 
+- [error response function ReadStream · Issue #41 · aheckmann/gridfs-stream](https://github.com/aheckmann/gridfs-stream/issues/41) 
 ### August 20, 2018 
 - [An Overview of Buffers in Node.js | www.thecodebarbarian.com](http://thecodebarbarian.com/an-overview-of-buffers-in-node-js.html) 
 ### August 16, 2018 
