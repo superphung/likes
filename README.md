@@ -18,6 +18,7 @@
 
 ### October 5, 2018 
 - [SQS as an event source to trigger Lambda – Slalom Technology – Medium](https://medium.com/slalom-technology/sqs-as-an-event-source-to-trigger-lambda-8858cb3f627f) 
+- [AWS Lambda SQS events with Serverless Framework - DEV Community 👩‍💻👨‍💻](https://dev.to/piczmar_0/aws-lambda-sqs-events-with-serverless-framework-oj6) 
 ### September 21, 2018 
 - [Animate your world with ThreeJS and TweenJS](https://marmelab.com/blog/2017/06/15/animate-you-world-with-threejs-and-tweenjs.html) 
 ### September 3, 2018 
