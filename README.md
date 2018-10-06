@@ -19,6 +19,7 @@
 
 ### October 6, 2018 
 - [Add SQS event integration by alexdebrie · Pull Request #5074 · serverless/serverless](https://github.com/serverless/serverless/pull/5074) 
+- [aws lambda - How do I assign function level IamRoleStatements in Serverless Framework? - Stack Overflow](https://stackoverflow.com/questions/41474358/how-do-i-assign-function-level-iamrolestatements-in-serverless-framework) 
 ### October 5, 2018 
 - [SQS as an event source to trigger Lambda – Slalom Technology – Medium](https://medium.com/slalom-technology/sqs-as-an-event-source-to-trigger-lambda-8858cb3f627f) 
 - [AWS Lambda SQS events with Serverless Framework - DEV Community 👩‍💻👨‍💻](https://dev.to/piczmar_0/aws-lambda-sqs-events-with-serverless-framework-oj6) 
