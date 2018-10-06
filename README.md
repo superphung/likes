@@ -16,6 +16,9 @@
 
 
 
+
+### October 6, 2018 
+- [Add SQS event integration by alexdebrie · Pull Request #5074 · serverless/serverless](https://github.com/serverless/serverless/pull/5074) 
 ### October 5, 2018 
 - [SQS as an event source to trigger Lambda – Slalom Technology – Medium](https://medium.com/slalom-technology/sqs-as-an-event-source-to-trigger-lambda-8858cb3f627f) 
 - [AWS Lambda SQS events with Serverless Framework - DEV Community 👩‍💻👨‍💻](https://dev.to/piczmar_0/aws-lambda-sqs-events-with-serverless-framework-oj6) 
