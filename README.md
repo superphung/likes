@@ -17,6 +17,9 @@
 
 
 
+
+### October 7, 2018 
+- [AWS AppSync with Lambda Data Sources – Open GraphQL – Medium](https://medium.com/open-graphql/aws-appsync-with-lambda-data-sources-643fabcc598b) 
 ### October 6, 2018 
 - [Add SQS event integration by alexdebrie · Pull Request #5074 · serverless/serverless](https://github.com/serverless/serverless/pull/5074) 
 - [aws lambda - How do I assign function level IamRoleStatements in Serverless Framework? - Stack Overflow](https://stackoverflow.com/questions/41474358/how-do-i-assign-function-level-iamrolestatements-in-serverless-framework) 
