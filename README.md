@@ -18,6 +18,9 @@
 
 
 
+
+### October 17, 2018 
+- [Expose your local environment to the world with ngrok - Theodo](https://blog.theodo.fr/2016/06/expose-your-local-environment-to-the-world-with-ngrok/) 
 ### October 7, 2018 
 - [AWS AppSync with Lambda Data Sources – Open GraphQL – Medium](https://medium.com/open-graphql/aws-appsync-with-lambda-data-sources-643fabcc598b) 
 ### October 6, 2018 
