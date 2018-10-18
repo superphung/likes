@@ -19,6 +19,9 @@
 
 
 
+
+### October 18, 2018 
+- [5 Minute Upgrade Nginx 1.10 to 1.15+ on Ubuntu 16.04 (Xenial)](https://ubuntu101.co.za/nginx/upgrade-nginx-1-12-ubuntu-16-xenial/) 
 ### October 17, 2018 
 - [Expose your local environment to the world with ngrok - Theodo](https://blog.theodo.fr/2016/06/expose-your-local-environment-to-the-world-with-ngrok/) 
 ### October 7, 2018 
