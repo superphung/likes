@@ -20,6 +20,9 @@
 
 
 
+
+### November 21, 2018 
+- [Understanding IP Addresses, Subnets, and CIDR Notation for Networking | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking) 
 ### October 18, 2018 
 - [5 Minute Upgrade Nginx 1.10 to 1.15+ on Ubuntu 16.04 (Xenial)](https://ubuntu101.co.za/nginx/upgrade-nginx-1-12-ubuntu-16-xenial/) 
 ### October 17, 2018 
