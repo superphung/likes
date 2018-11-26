@@ -21,6 +21,9 @@
 
 
 
+
+### November 26, 2018 
+- [Mongoose v5.3.13: Using Mongoose With AWS Lambda](https://mongoosejs.com/docs/lambda.html) 
 ### November 21, 2018 
 - [Understanding IP Addresses, Subnets, and CIDR Notation for Networking | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking) 
 ### October 18, 2018 
