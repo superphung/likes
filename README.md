@@ -22,6 +22,9 @@
 
 
 
+
+### December 5, 2018 
+- [event-stream vulnerability explained - Zach Schneider](https://schneid.io/blog/event-stream-vulnerability-explained/) 
 ### November 26, 2018 
 - [Mongoose v5.3.13: Using Mongoose With AWS Lambda](https://mongoosejs.com/docs/lambda.html) 
 ### November 21, 2018 
