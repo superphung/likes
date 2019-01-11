@@ -23,6 +23,9 @@
 
 
 
+
+### January 11, 2019 
+- [amazon ecs - AWS ECS - running task vs. service - Stack Overflow](https://stackoverflow.com/questions/42960678/aws-ecs-running-task-vs-service) 
 ### December 5, 2018 
 - [event-stream vulnerability explained - Zach Schneider](https://schneid.io/blog/event-stream-vulnerability-explained/) 
 ### November 26, 2018 
