@@ -24,6 +24,9 @@
 
 
 
+
+### January 19, 2019 
+- [How to use AWS Fargate and Lambda for long-running processes in a Serverless app](https://serverless.com/blog/serverless-application-for-long-running-process-fargate-lambda/) 
 ### January 11, 2019 
 - [amazon ecs - AWS ECS - running task vs. service - Stack Overflow](https://stackoverflow.com/questions/42960678/aws-ecs-running-task-vs-service) 
 ### December 5, 2018 
