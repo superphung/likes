@@ -25,6 +25,9 @@
 
 
 
+
+### January 23, 2019 
+- [Securing messages published to Amazon SNS with AWS PrivateLink | AWS Security Blog](https://aws.amazon.com/blogs/security/securing-messages-published-to-amazon-sns-with-aws-privatelink/) 
 ### January 19, 2019 
 - [How to use AWS Fargate and Lambda for long-running processes in a Serverless app](https://serverless.com/blog/serverless-application-for-long-running-process-fargate-lambda/) 
 ### January 11, 2019 
