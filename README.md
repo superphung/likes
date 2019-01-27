@@ -26,6 +26,9 @@
 
 
 
+
+### January 27, 2019 
+- [graphql-shorthand-notation-cheat-sheet.png (2526×1785)](https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png) 
 ### January 23, 2019 
 - [Securing messages published to Amazon SNS with AWS PrivateLink | AWS Security Blog](https://aws.amazon.com/blogs/security/securing-messages-published-to-amazon-sns-with-aws-privatelink/) 
 - [Best Practices for Working with AWS Lambda Functions - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html#lambda-vpc) 
