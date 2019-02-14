@@ -28,6 +28,9 @@
 
 
 
+
+### February 14, 2019 
+- [How to beat the CAP theorem - thoughts from the red planet - thoughts from the red planet](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) 
 ### February 1, 2019 
 - [How to install earlier version of mongodb with homebrew? - Stack Overflow](https://stackoverflow.com/questions/30379127/how-to-install-earlier-version-of-mongodb-with-homebrew) 
 ### January 27, 2019 
