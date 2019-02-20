@@ -29,6 +29,9 @@
 
 
 
+
+### February 20, 2019 
+- [EECS-2019-3.pdf](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf?utm_source=newsletter&utm_medium=email&utm_content=offbynone&utm_campaign=Off-by-none%3A%20Issue%20%2324) 
 ### February 14, 2019 
 - [How to beat the CAP theorem - thoughts from the red planet - thoughts from the red planet](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html) 
 ### February 1, 2019 
