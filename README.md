@@ -30,6 +30,9 @@
 
 
 
+
+### February 22, 2019 
+- [What is advantage of Tini? · Issue #8 · krallin/tini](https://github.com/krallin/tini/issues/8) 
 ### February 20, 2019 
 - [EECS-2019-3.pdf](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf?utm_source=newsletter&utm_medium=email&utm_content=offbynone&utm_campaign=Off-by-none%3A%20Issue%20%2324) 
 ### February 14, 2019 
