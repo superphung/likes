@@ -31,6 +31,9 @@
 
 
 
+
+### February 25, 2019 
+- [node.js - Nodejs - Invoke an AWS.Lambda function from within another lambda function - Stack Overflow](https://stackoverflow.com/questions/35754766/nodejs-invoke-an-aws-lambda-function-from-within-another-lambda-function) 
 ### February 22, 2019 
 - [What is advantage of Tini? · Issue #8 · krallin/tini](https://github.com/krallin/tini/issues/8) 
 ### February 20, 2019 
