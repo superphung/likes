@@ -35,6 +35,7 @@
 
 ### February 27, 2019 
 - [I wish I knew how to use MongoDB connection in AWS Lambda](https://blog.cloudboost.io/i-wish-i-knew-how-to-use-mongodb-connection-in-aws-lambda-f91cd2694ae5) 
+- [Controlling concurrency of AWS Lambda – marcin piczkowski – Medium](https://medium.com/@piczmar/controlling-concurrency-of-aws-lambda-d51057ee1d62) 
 ### February 25, 2019 
 - [node.js - Nodejs - Invoke an AWS.Lambda function from within another lambda function - Stack Overflow](https://stackoverflow.com/questions/35754766/nodejs-invoke-an-aws-lambda-function-from-within-another-lambda-function) 
 ### February 22, 2019 
