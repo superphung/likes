@@ -33,6 +33,9 @@
 
 
 
+
+### February 28, 2019 
+- [Server sdk not working with aws lambda function · Issue #185 · mongodb/stitch-js-sdk](https://github.com/mongodb/stitch-js-sdk/issues/185) 
 ### February 27, 2019 
 - [I wish I knew how to use MongoDB connection in AWS Lambda](https://blog.cloudboost.io/i-wish-i-knew-how-to-use-mongodb-connection-in-aws-lambda-f91cd2694ae5) 
 - [Controlling concurrency of AWS Lambda – marcin piczkowski – Medium](https://medium.com/@piczmar/controlling-concurrency-of-aws-lambda-d51057ee1d62) 
