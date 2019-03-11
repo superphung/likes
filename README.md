@@ -34,6 +34,9 @@
 
 
 
+
+### March 11, 2019 
+- [React Today and Tomorrow and 90% Cleaner React With Hooks - YouTube](https://www.youtube.com/watch?v=dpw9EHDh2bM&t=1s) 
 ### February 28, 2019 
 - [Server sdk not working with aws lambda function · Issue #185 · mongodb/stitch-js-sdk](https://github.com/mongodb/stitch-js-sdk/issues/185) 
 ### February 27, 2019 
