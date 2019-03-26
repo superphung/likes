@@ -40,6 +40,7 @@
 ### March 26, 2019 
 - [javascript - What is the purpose of a plus symbol before a variable? - Stack Overflow](https://stackoverflow.com/questions/6682997/what-is-the-purpose-of-a-plus-symbol-before-a-variable) 
 - [HTMLElement.dataset - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset) 
+- [Redux vs. The React Context API](https://daveceddia.com/context-api-vs-redux/) 
 ### March 18, 2019 
 - [Prop Drilling](https://kentcdodds.com/blog/prop-drilling) 
 - [React's Render Props Pattern - RWieruch](https://www.robinwieruch.de/react-render-props-pattern/) 
