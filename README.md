@@ -37,6 +37,9 @@
 
 
 
+
+### April 6, 2019 
+- [Aurora Serverless Data API: A First Look - Jeremy Daly](https://www.jeremydaly.com/aurora-serverless-data-api-a-first-look/) 
 ### March 26, 2019 
 - [javascript - What is the purpose of a plus symbol before a variable? - Stack Overflow](https://stackoverflow.com/questions/6682997/what-is-the-purpose-of-a-plus-symbol-before-a-variable) 
 - [HTMLElement.dataset - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset) 
