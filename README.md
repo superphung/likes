@@ -38,6 +38,9 @@
 
 
 
+
+### April 7, 2019 
+- [indexing - Global Vs Local Secondary Indexes in DynamoDB - Stack Overflow](https://stackoverflow.com/questions/50081459/global-vs-local-secondary-indexes-in-dynamodb) 
 ### April 6, 2019 
 - [Aurora Serverless Data API: A First Look - Jeremy Daly](https://www.jeremydaly.com/aurora-serverless-data-api-a-first-look/) 
 ### March 26, 2019 
