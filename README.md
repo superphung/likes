@@ -39,6 +39,9 @@
 
 
 
+
+### April 15, 2019 
+- [How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test) 
 ### April 7, 2019 
 - [indexing - Global Vs Local Secondary Indexes in DynamoDB - Stack Overflow](https://stackoverflow.com/questions/50081459/global-vs-local-secondary-indexes-in-dynamodb) 
 ### April 6, 2019 
