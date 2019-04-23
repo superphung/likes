@@ -40,6 +40,9 @@
 
 
 
+
+### April 23, 2019 
+- [Application State Management with React](https://kentcdodds.com/blog/application-state-management-with-react) 
 ### April 15, 2019 
 - [How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test) 
 ### April 7, 2019 
