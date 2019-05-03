@@ -41,6 +41,9 @@
 
 
 
+
+### May 4, 2019 
+- [I’m afraid you’re thinking about AWS Lambda cold starts all wrong | theburningmonk.com](https://theburningmonk.com/2018/01/im-afraid-youre-thinking-about-aws-lambda-cold-starts-all-wrong/) 
 ### April 23, 2019 
 - [Application State Management with React](https://kentcdodds.com/blog/application-state-management-with-react) 
 ### April 15, 2019 
