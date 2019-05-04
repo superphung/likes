@@ -42,6 +42,9 @@
 
 
 
+
+### May 5, 2019 
+- [Serverless Framework - AWS Lambda Events - API Gateway](https://serverless.com/framework/docs/providers/aws/events/apigateway/#setting-api-keys-for-your-rest-api) 
 ### May 4, 2019 
 - [I’m afraid you’re thinking about AWS Lambda cold starts all wrong | theburningmonk.com](https://theburningmonk.com/2018/01/im-afraid-youre-thinking-about-aws-lambda-cold-starts-all-wrong/) 
 ### April 23, 2019 
