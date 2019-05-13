@@ -43,6 +43,9 @@
 
 
 
+
+### May 13, 2019 
+- [Clara: A Neural Net Music Generator – Christine Payne](http://christinemcleavey.com/clara-a-neural-net-music-generator/) 
 ### May 5, 2019 
 - [Serverless Framework - AWS Lambda Events - API Gateway](https://serverless.com/framework/docs/providers/aws/events/apigateway/#setting-api-keys-for-your-rest-api) 
 ### May 4, 2019 
