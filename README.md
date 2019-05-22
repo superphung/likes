@@ -44,6 +44,9 @@
 
 
 
+
+### May 22, 2019 
+- [amazon web services - How to change instance type in AWS ECS cluster? - Stack Overflow](https://stackoverflow.com/questions/44637225/how-to-change-instance-type-in-aws-ecs-cluster) 
 ### May 13, 2019 
 - [Clara: A Neural Net Music Generator – Christine Payne](http://christinemcleavey.com/clara-a-neural-net-music-generator/) 
 ### May 5, 2019 
