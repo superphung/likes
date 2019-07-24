@@ -46,6 +46,9 @@
 
 
 
+
+### July 24, 2019 
+- [Serverless Framework – Now, Full Lifecycle](https://serverless.com/blog/serverless-now-full-lifecycle/-by-none%3A%20Issue%20%2347) 
 ### July 22, 2019 
 - [reactjs - Invalid Host Header when ngrok tries to connect to React dev server - Stack Overflow](https://stackoverflow.com/questions/45425721/invalid-host-header-when-ngrok-tries-to-connect-to-react-dev-server) 
 ### May 22, 2019 
