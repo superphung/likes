@@ -47,6 +47,9 @@
 
 
 
+
+### August 13, 2019 
+- [Lessons learned scaling PostgreSQL database to 1.2bn records/month](https://medium.com/@gajus/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067) 
 ### July 24, 2019 
 - [Serverless Framework – Now, Full Lifecycle](https://serverless.com/blog/serverless-now-full-lifecycle/-by-none%3A%20Issue%20%2347) 
 ### July 22, 2019 
