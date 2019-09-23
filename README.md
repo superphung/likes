@@ -48,6 +48,9 @@
 
 
 
+
+### September 23, 2019 
+- [Chris Achard sur Twitter : "🔥 Learn React in 10 tweets (with hooks) 👇"](https://twitter.com/chrisachard/status/1175022111758442497) 
 ### August 13, 2019 
 - [Lessons learned scaling PostgreSQL database to 1.2bn records/month](https://medium.com/@gajus/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067) 
 - [Reddit: Lessons Learned from Mistakes Made Scaling to 1 Billion Pageviews a Month - High Scalability -](http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html) 
