@@ -49,6 +49,9 @@
 
 
 
+
+### October 16, 2019 
+- [Serverless Deployment Best Practices](https://serverless.com/blog/serverless-deployment-best-practices/) 
 ### September 23, 2019 
 - [Chris Achard sur Twitter : "🔥 Learn React in 10 tweets (with hooks) 👇"](https://twitter.com/chrisachard/status/1175022111758442497) 
 ### August 13, 2019 
