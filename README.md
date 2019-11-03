@@ -50,6 +50,9 @@
 
 
 
+
+### November 3, 2019 
+- [Don’t wait for Functionless. Write less Functions instead](https://medium.com/lego-engineering/dont-wait-for-functionless-write-less-functions-instead-8f2c331cd651) 
 ### October 16, 2019 
 - [Serverless Deployment Best Practices](https://serverless.com/blog/serverless-deployment-best-practices/) 
 ### September 23, 2019 
