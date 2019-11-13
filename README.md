@@ -51,6 +51,9 @@
 
 
 
+
+### November 13, 2019 
+- [DynamoDB Importer | Rehan vn der Merwe](https://www.rehanvdm.com/serverless/dynamodb-importer/index.html?utm_source=newsletter&utm_medium=email&utm_content=offbynone&utm_campaign=Off-by-none%3A%20Issue%20%2363) 
 ### November 3, 2019 
 - [Don’t wait for Functionless. Write less Functions instead](https://medium.com/lego-engineering/dont-wait-for-functionless-write-less-functions-instead-8f2c331cd651) 
 ### October 16, 2019 
