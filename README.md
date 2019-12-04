@@ -52,6 +52,9 @@
 
 
 
+
+### December 4, 2019 
+- [Our Redux Anti Pattern](https://rangle.slides.com/yazanalaboudi/deck#/) 
 ### November 13, 2019 
 - [DynamoDB Importer | Rehan vn der Merwe](https://www.rehanvdm.com/serverless/dynamodb-importer/index.html?utm_source=newsletter&utm_medium=email&utm_content=offbynone&utm_campaign=Off-by-none%3A%20Issue%20%2363) 
 - [Managing AWS Lambda Function Concurrency | AWS Compute Blog](https://aws.amazon.com/blogs/compute/managing-aws-lambda-function-concurrency/) 
