@@ -53,6 +53,9 @@
 
 
 
+
+### December 27, 2019 
+- [Removing sensitive data from a repository - GitHub Help](https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository) 
 ### December 4, 2019 
 - [Our Redux Anti Pattern](https://rangle.slides.com/yazanalaboudi/deck#/) 
 ### November 13, 2019 
