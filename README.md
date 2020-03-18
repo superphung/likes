@@ -56,6 +56,9 @@
 
 
 
+
+### March 18, 2020 
+- [200 OK! Error Handling in GraphQL - Sasha Solomon - Medium](https://medium.com/@sachee/200-ok-error-handling-in-graphql-7ec869aec9bc) 
 ### March 15, 2020 
 - [Complete AWS IAM Reference](https://iam.cloudonaut.io/) 
 ### March 5, 2020 
