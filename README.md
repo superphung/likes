@@ -57,6 +57,9 @@
 
 
 
+
+### March 22, 2020 
+- [Should I use Redux? - DEV Community 👩‍💻👨‍💻](https://dev.to/muhammadwasif/should-i-use-redux-2mio) 
 ### March 18, 2020 
 - [200 OK! Error Handling in GraphQL - Sasha Solomon - Medium](https://medium.com/@sachee/200-ok-error-handling-in-graphql-7ec869aec9bc) 
 ### March 15, 2020 
