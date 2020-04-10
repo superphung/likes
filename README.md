@@ -58,6 +58,9 @@
 
 
 
+
+### April 10, 2020 
+- [Displaying a preview of an image upload in React - Egor Egorov - Medium](https://medium.com/@650egor/react-30-day-challenge-day-2-image-upload-preview-2d534f8eaaa) 
 ### March 22, 2020 
 - [Should I use Redux? - DEV Community 👩‍💻👨‍💻](https://dev.to/muhammadwasif/should-i-use-redux-2mio) 
 ### March 18, 2020 
