@@ -59,6 +59,9 @@
 
 
 
+
+### April 27, 2020 
+- [Virtualize large lists with react-window](https://web.dev/virtualize-long-lists-react-window/) 
 ### April 10, 2020 
 - [Displaying a preview of an image upload in React - Egor Egorov - Medium](https://medium.com/@650egor/react-30-day-challenge-day-2-image-upload-preview-2d534f8eaaa) 
 ### March 22, 2020 
