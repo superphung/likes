@@ -63,6 +63,7 @@
 
 ### May 9, 2020 
 - [1loc | Favorite JavaScript single line of code](https://1loc.dev/) 
+- [Deno 1.0: What you need to know - LogRocket Blog](https://blog.logrocket.com/deno-1-0-what-you-need-to-know/) 
 ### April 27, 2020 
 - [Virtualize large lists with react-window](https://web.dev/virtualize-long-lists-react-window/) 
 ### April 10, 2020 
