@@ -60,6 +60,9 @@
 
 
 
+
+### May 9, 2020 
+- [1loc | Favorite JavaScript single line of code](https://1loc.dev/) 
 ### April 27, 2020 
 - [Virtualize large lists with react-window](https://web.dev/virtualize-long-lists-react-window/) 
 ### April 10, 2020 
