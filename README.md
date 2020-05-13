@@ -61,6 +61,9 @@
 
 
 
+
+### May 14, 2020 
+- [Solving the N+1 Problem for GraphQL through Batching – Shopify Engineering](https://engineering.shopify.com/blogs/engineering/solving-the-n-1-problem-for-graphql-through-batching) 
 ### May 9, 2020 
 - [1loc | Favorite JavaScript single line of code](https://1loc.dev/) 
 - [Deno 1.0: What you need to know - LogRocket Blog](https://blog.logrocket.com/deno-1-0-what-you-need-to-know/) 
