@@ -62,6 +62,9 @@
 
 
 
+
+### June 6, 2020 
+- [A Node.js Perspective on MongoDB 4.0: Transactions | www.thecodebarbarian.com](http://thecodebarbarian.com/a-node-js-perspective-on-mongodb-4-transactions.html) 
 ### May 14, 2020 
 - [Solving the N+1 Problem for GraphQL through Batching – Shopify Engineering](https://engineering.shopify.com/blogs/engineering/solving-the-n-1-problem-for-graphql-through-batching) 
 - [Second-guessing the modern web - macwright.org](https://macwright.org/2020/05/10/spa-fatigue.html) 
