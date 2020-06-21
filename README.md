@@ -64,6 +64,9 @@
 
 
 
+
+### June 21, 2020 
+- [Install anaconda on macOS with homebrew - Ayuth’s Story - Medium](https://medium.com/ayuth/install-anaconda-on-macos-with-homebrew-c94437d63a37) 
 ### June 14, 2020 
 - [Higher-Order Components In React — Smashing Magazine](https://www.smashingmagazine.com/2020/06/higher-order-components-react/) 
 - [What are Github Actions and How Can You Automate Tests and Slack Notifications?](https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/) 
