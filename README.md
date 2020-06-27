@@ -65,6 +65,9 @@
 
 
 
+
+### June 27, 2020 
+- [Generating Digital Painting Lighting Effects via RGB-space Geometry](https://lllyasviel.github.io/PaintingLight/) 
 ### June 21, 2020 
 - [Install anaconda on macOS with homebrew - Ayuth’s Story - Medium](https://medium.com/ayuth/install-anaconda-on-macos-with-homebrew-c94437d63a37) 
 ### June 14, 2020 
