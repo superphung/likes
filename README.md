@@ -66,6 +66,9 @@
 
 
 
+
+### September 5, 2020 
+- [Troy Hunt: We Didn't Encrypt Your Password, We Hashed It. Here's What That Means:](https://www.troyhunt.com/we-didnt-encrypt-your-password-we-hashed-it-heres-what-that-means/) 
 ### June 27, 2020 
 - [Generating Digital Painting Lighting Effects via RGB-space Geometry](https://lllyasviel.github.io/PaintingLight/) 
 ### June 21, 2020 
