@@ -67,6 +67,9 @@
 
 
 
+
+### November 13, 2020 
+- [Use CSS Variables instead of React Context | Epic React by Kent C. Dodds](https://epicreact.dev/css-variables/) 
 ### September 5, 2020 
 - [Troy Hunt: We Didn't Encrypt Your Password, We Hashed It. Here's What That Means:](https://www.troyhunt.com/we-didnt-encrypt-your-password-we-hashed-it-heres-what-that-means/) 
 ### June 27, 2020 
