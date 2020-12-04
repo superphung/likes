@@ -68,6 +68,9 @@
 
 
 
+
+### December 4, 2020 
+- [How to Test React.useEffect | Epic React by Kent C. Dodds](https://epicreact.dev/how-to-test-react-use-effect/) 
 ### November 13, 2020 
 - [Use CSS Variables instead of React Context | Epic React by Kent C. Dodds](https://epicreact.dev/css-variables/) 
 ### September 5, 2020 
