@@ -69,6 +69,9 @@
 
 
 
+
+### December 6, 2020 
+- [Tracking deliveries, opens, clicks, failures and complaints for Amazon SES - Mailintel](https://mailintel.io/resources/tracking-deliveries-opens-and-clicks-for-amazon-ses) 
 ### December 4, 2020 
 - [How to Test React.useEffect | Epic React by Kent C. Dodds](https://epicreact.dev/how-to-test-react-use-effect/) 
 ### November 13, 2020 
