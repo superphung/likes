@@ -70,6 +70,9 @@
 
 
 
+
+### August 15, 2021 
+- [Retour sur la soirée du lundi 12 juillet chez Doctolib | Le Touilleur Express](https://www.touilleur-express.fr/2021/08/14/lundi-12-juillet-chez-doctolib/) 
 ### December 6, 2020 
 - [Tracking deliveries, opens, clicks, failures and complaints for Amazon SES - Mailintel](https://mailintel.io/resources/tracking-deliveries-opens-and-clicks-for-amazon-ses) 
 ### December 4, 2020 
