@@ -71,6 +71,9 @@
 
 
 
+
+### August 23, 2021 
+- [👩‍🎨 The Ultimate Design System Checklist | Taskade](https://www.taskade.com/templates/design/the-ultimate-design-system-checklist) 
 ### August 15, 2021 
 - [Retour sur la soirée du lundi 12 juillet chez Doctolib | Le Touilleur Express](https://www.touilleur-express.fr/2021/08/14/lundi-12-juillet-chez-doctolib/) 
 ### December 6, 2020 
